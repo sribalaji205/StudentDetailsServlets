@@ -1,4 +1,4 @@
-# StudentDetailsServlets
+# Student Details Servlets
 ## A Web App Using Servlet
 ### This App is used to Store information about Students
 # 
